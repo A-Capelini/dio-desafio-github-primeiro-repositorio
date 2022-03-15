@@ -1,4 +1,4 @@
-###### <img src="https://github.com/A-Capelini/dio-desafio-github-primeiro-repositorio/blob/70313c7af96e768d7e18537690903d5a6858ead6/philips2.png" alt="philips2" style="zoom:1%;" />
+###### 
 
 #       Philips Fullstack Developer | You Are You
 
