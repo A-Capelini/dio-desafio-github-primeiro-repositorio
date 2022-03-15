@@ -1,6 +1,6 @@
 
 
-###### <img src="C:\Users\ander\Documents\DIO\BootCamp\philips\philips2.png" alt="philips2" style="zoom:5%;" />
+###### <img src="C:\Users\ander\Documents\DIO\BootCamp\Philips\philips2.png" alt="philips2" style="zoom:7%;" />
 
 #       Philips Fullstack Developer | You Are You
 
