@@ -14,6 +14,10 @@
 
 * [Variáveis e Tipos](https://github.com/A-Capelini/dio-desafio-github-primeiro-repositorio/tree/main/variaveis-e-tipos)
 
+* [Trabalhando com módulos em JavaScript](https://github.com/A-Capelini/dio-desafio-github-primeiro-repositorio/tree/main/variaveis-e-tipos)
+
+  
+
 
 
 Repositório criado para o Desfio de Projeto.
