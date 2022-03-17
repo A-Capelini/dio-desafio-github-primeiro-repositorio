@@ -20,6 +20,8 @@
 
 * [Coleções](https://github.com/A-Capelini/dio-desafio-github-primeiro-repositorio/tree/main/coleções)
 
+* [Debugging e Error Handling](https://github.com/A-Capelini/dio-desafio-github-primeiro-repositorio/tree/main/debugging-e-error-handling)
+
   
 
 
@@ -31,4 +33,12 @@ Repositório criado para o Desfio de Projeto.
 ## Links úteis
 
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+
+[Objeto Error](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Error)
+
+[instanceof](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/instanceof)
+
+[typeof](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/typeof)
+
+[try...catch](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/try...catch)
 
