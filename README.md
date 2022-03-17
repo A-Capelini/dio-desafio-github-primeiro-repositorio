@@ -16,6 +16,8 @@
 
 * [Trabalhando com módulos em JavaScript](https://github.com/A-Capelini/dio-desafio-github-primeiro-repositorio/tree/main/trabalhando-com-modulo-em-javaScript)
 
+* [Funções](https://github.com/A-Capelini/dio-desafio-github-primeiro-repositorio/tree/main/funções)
+
   
 
 
