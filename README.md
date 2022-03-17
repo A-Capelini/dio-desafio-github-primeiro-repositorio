@@ -18,6 +18,8 @@
 
 * [Funções](https://github.com/A-Capelini/dio-desafio-github-primeiro-repositorio/tree/main/funções)
 
+* [Coleções](https://github.com/A-Capelini/dio-desafio-github-primeiro-repositorio/tree/main/coleções)
+
   
 
 
