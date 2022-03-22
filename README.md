@@ -22,6 +22,8 @@
 
 * [Debugging e Error Handling](https://github.com/A-Capelini/dio-desafio-github-primeiro-repositorio/tree/main/debugging-e-error-handling)
 
+* [Javascript Assincrono](https://github.com/A-Capelini/dio-desafio-github-primeiro-repositorio/tree/main/javascript-assincrono)
+
   
 
 
